@@ -24,7 +24,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
     "uniqCompNum": 1,
-    "versionPublish": "4.6.7"
+    "versionPublish": "4.6.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -58,7 +59,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Baustelle",
-          "text": "Hier entsteht eine Internetpräsenz",
+          "text": "Hier entsteht eine Internetpräsenz<br>Textversion 0.2",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
