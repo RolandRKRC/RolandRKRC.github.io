@@ -4,6 +4,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -410,4 +412,21 @@ h6,
 }
 .scrollToTop_wraper {
   display: none;
+}
+#msg-box8-1 .mbr-section-title,
+#msg-box8-1 p {
+  color: #fff;
+}
+#msg-box8-1 .mbr-section-title {
+  font-size: 36px;
+  color: #2b0680;
+}
+#msg-box8-1 .lead P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+#msg-box8-1 .lead {
+  color: #b8312f;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
 }
